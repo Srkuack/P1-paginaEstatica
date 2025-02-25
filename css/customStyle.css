@@ -1,0 +1,8 @@
+a.CustomTel{
+    color: white; /* Texto en blanco */
+    text-decoration: none; /* Quita el subrayado */
+    display: block; /* Para que se pueda alinear */
+    text-align: right; /* Alinea el texto a la derecha */
+    padding: 10px; /* Espaciado opcional */
+    position: relative;
+}

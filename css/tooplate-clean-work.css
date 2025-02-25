@@ -1,20 +1,16 @@
 /*
-
 Tooplate 2132 Clean Work
 
 https://www.tooplate.com/view/2132-clean-work
 
 */
-
-
-
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #f5a8f1;
-  --secondary-color:              #4f83d1;
+  --secondary-color:              #dcb1de;
   --section-bg-color:             #f0f8ff;
   --custom-btn-bg-color:          #4f83d1;
   --custom-btn-bg-hover-color:    #7cb8eb;
@@ -178,7 +174,7 @@ strong {
 }
 
 .cd-words-wrapper b {
-  color: #e5e50f;
+  color: #f5a8f1;
   display: inline-block;
   position: absolute;
   white-space: nowrap;
@@ -878,7 +874,7 @@ strong {
   BANNER        
 -----------------------------------------*/
 .banner-section {
-  background-image: url('../images/high-angle-woman-cleaning-floors.jpg');
+  background-image: url('../images/slideshow/imagen3.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
